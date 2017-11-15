@@ -2,7 +2,7 @@
 + làm các sơ đồ
 + các service của unity
 +test coi nó có sync không rồi hẵn syncvar
-
++ chụp hình demo
 
 
 
@@ -12,3 +12,4 @@ https://viblo.asia/p/unity-5-va-unreal-engine-4-OREGwZRpvlN
 http://vtcacademy.edu.vn/tintuc/tai-sao-unity-3d-duoc-nha-phat-trien-game-lua-chon.2318.aspx
 http://genk.vn/dien-thoai/hanh-trinh-phat-trien-cua-unity-3d-engine-game-pho-bien-nhat-the-gioi-hien-nay-20160105165947238.chn
 https://techmaster.vn/posts/33356/hoc-lap-trinh-game-unity-co-ban
+http://hocunity.3dvietpro.vn/default.aspx?g=posts&m=46#post46
