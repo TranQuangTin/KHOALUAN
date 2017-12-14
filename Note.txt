@@ -1,9 +1,11 @@
 ﻿+ translate and rotate
 + làm các sơ đồ
 + các service của unity
-+test coi nó có sync không rồi hẵn syncvar
++ test coi nó có sync không rồi hẵn syncvar
 + chụp hình demo
 
+chỉnh lại text chỗ phụ lục,
+giải thích lifecicle, nếu có thể thì thêm luôn service 
 
 
 nguồn:
@@ -14,3 +16,12 @@ http://genk.vn/dien-thoai/hanh-trinh-phat-trien-cua-unity-3d-engine-game-pho-bie
 https://techmaster.vn/posts/33356/hoc-lap-trinh-game-unity-co-ban
 http://hocunity.3dvietpro.vn/default.aspx?g=posts&m=46#post46
 https://cnttqn.com/threads/bai-4-animation-va-dieu-khien-hanh-dong-nhan-vat-animator.1517.html
+
+
+di chuyển tank,
+đạn và bắn
+kẻ thù và tạo kẻ thù
+kết nối trong multyplayer,
+hạn chế tồn đọng
+
+có tạo danh sách hình không hay chỉ sơ đồ
