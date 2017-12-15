@@ -25,3 +25,8 @@ kết nối trong multyplayer,
 hạn chế tồn đọng
 
 có tạo danh sách hình không hay chỉ sơ đồ
+coi lịa canh lề
+bỏ link git vô
+viết tắt xml
+
+Sơ đồ 2.1: Vòng đời của một script 32
